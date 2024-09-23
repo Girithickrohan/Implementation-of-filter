@@ -98,56 +98,37 @@ ii) Using Laplacian Operator
 </br>
 
 i) Using Averaging Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+
+![img]()
 
 ii)Using Weighted Averaging Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+
+![img]()
 
 iii) Using Minimum Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+
+![img]()
 
 iv) Using Maximum Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+
+
+![img]()
 
 v) Using Median Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+
+![img]()
+
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
-</br>
-</br>
-</br>
-</br>
-</br>
+
+![img]()
 
 ii) Using Laplacian Operator
-</br>
-</br>
-</br>
-</br>
-</br>
+
+![img]()
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
