@@ -99,24 +99,23 @@ ii) Using Laplacian Operator
 
 i) Using Averaging Filter
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-filter/refs/heads/main/1.png)
 
 ii)Using Weighted Averaging Filter
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-filter/refs/heads/main/2.png)
 
 iii) Using Minimum Filter
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-filter/refs/heads/main/3.png)
 
 iv) Using Maximum Filter
 
-
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-filter/refs/heads/main/4.png)
 
 v) Using Median Filter
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-filter/refs/heads/main/5.png)
 
 
 ### 2. Sharpening Filters
@@ -124,7 +123,7 @@ v) Using Median Filter
 
 i) Using Laplacian Kernal
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Implementation-of-filter/refs/heads/main/6.png)
 
 ii) Using Laplacian Operator
 
